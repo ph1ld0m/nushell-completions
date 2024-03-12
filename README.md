@@ -10,9 +10,9 @@ use <PATH>/vmctl.nu
 
 ## Notes on some of the completions
 
-*unwindctl*
+### unwindctl
 The current version does not support completions for the subcommands when the "-s" flag is given.
 
-*hx*
+### hx
 nushell does not support "+N" option to open the first given file.
 
