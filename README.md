@@ -1,6 +1,6 @@
 # nushell-completions
 
-This is a collection of some command line completions for the [nushell][https://github.com/nushell/nushell].
+This is a collection of some command line completions for the [nushell](https://github.com/nushell/nushell).
 
 You can add these to nushell by adding them to your config.nu, e.g.
 
